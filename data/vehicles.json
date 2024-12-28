@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Bugatti Chiron",
+        "type": "Car",
+        "price": "3000000",
+        "image": "https:\/\/www.shutterstock.com\/image-photo\/monte-carlo-monaco-may-30th-600nw-2499847687.jpg"
+    },
+    {
+        "name": "Rolls-Royce Phantom",
+        "type": "Car",
+        "price": "450000",
+        "image": "https:\/\/cdn.pixabay.com\/photo\/2015\/11\/06\/16\/33\/rolls-1029584_1280.jpg"
+    },
+    {
+        "name": "Royal Enfield",
+        "type": "Bike",
+        "price": "3000",
+        "image": "https:\/\/cdn.pixabay.com\/photo\/2015\/08\/27\/09\/06\/bike-909690_960_720.jpg"
+    }
+]
